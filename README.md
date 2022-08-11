@@ -26,6 +26,8 @@ Download from the releases page and unzip it
 5 . Done
 
 
-## People who don't waste their body resources : <img src = "https://media.tenor.com/images/f441bf4d6a7e6329981220844d3b22f7/tenor.gif">
+## People who don't waste their body resources :
+
+<img src = "https://media.tenor.com/images/f441bf4d6a7e6329981220844d3b22f7/tenor.gif">
 
 
