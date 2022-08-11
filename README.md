@@ -9,6 +9,10 @@ Installation steps below :
 # GET MOTIVATED
 <img src = "https://smashboards.com/attachments/vergil-motivated-png.210140/">
 
+# Download
+
+Download from the releases page and unzip it
+
 # INSTALLATION
 
 1 . Visit chrome://extensions (via omnibox or menu -> Tools -> Extensions).
