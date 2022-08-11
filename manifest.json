@@ -17,10 +17,10 @@
         "questions/questions.json"
     ],
     "icons": {
-        "16": "icons/LeetDirectIcon16.png",
-        "32": "icons/LeetDirectIcon32.png",
-        "64": "icons/LeetDirectIcon64.png",
-        "128": "icons/LeetDirectIcon128.png"
+        "16": "LeetDirectIcon1.png",
+        "32": "LeetDirectIcon1.png",
+        "64": "LeetDirectIcon1.png",
+        "128": "LeetDirectIcon1.png"
     },
     "permissions": [
         "storage", 
